@@ -1,0 +1,40 @@
+# 📘 Querying In Notebooks
+
+🖙 [Back to main repository](../README.md)
+
+This folder contains notebooks and exercises that focus on the basics of SQL querying using Jupyter Notebooks.
+
+## 🗘️ Learning Path in this Chapter
+
+1. SELECT and WHERE
+2. Logical and Comparison Operators
+3. Reading Data Across Multiple Tables
+4. Exercises and Practice
+
+## 🧠 Topics Covered
+
+* `SELECT` and `WHERE` clauses
+* Logical and comparison operators (`AND`, `OR`, `>`, `<`, `=`)
+* Commenting and aliasing in SQL
+* Reading from multiple tables
+
+## 📂 Files
+
+| 📘 Notebook Title                                                                                                                    | 📌 Description                             |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
+| [`Aliasing and commenting in SQL.ipynb`](./Aliasing%20and%20commenting%20in%20SQL.ipynb)                                             | Rename columns and write readable SQL code |
+| [`Basic SQL queries in a notebook 1 [Exercise].ipynb`](./Basic%20SQL%20queries%20in%20a%20notebook%201%20%5BExercise%5D.ipynb)       | Simple practice with SELECT and WHERE      |
+| [`Logical and comparison operators.ipynb`](./Logical%20and%20comparison%20operators.ipynb)                                           | Use AND, OR, NOT, and comparison symbols   |
+| [`Querying in notebooks [Exercise].ipynb`](./Querying%20in%20notebooks%20%5BExercise%5D.ipynb)                                       | Combine all basic concepts in practice     |
+| [`Reading data across multiple tables.ipynb`](./Reading%20data%20across%20multiple%20tables.ipynb)                                   | Read and join data across tables           |
+| [`SELECT and WHERE [Notebook].ipynb`](./SELECT%20and%20WHERE%20%5BNotebook%5D.ipynb)                                                 | Filter rows using WHERE clause             |
+| [`Using logical and comparison operators [Notebook].ipynb`](./Using%20logical%20and%20comparison%20operators%20%5BNotebook%5D.ipynb) | Practice filtering with logic              |
+
+## ✅ What I Learned
+
+* Writing clean SQL queries using SELECT and WHERE
+* Applying logical operators to filter data
+* Using comments and aliases to enhance readability
+* Exploring data stored in multiple tables
+
+> 💡 You can open the notebooks directly in your browser using [Google Colab](https://colab.research.google.com) or JupyterLab.
