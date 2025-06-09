@@ -1,6 +1,5 @@
 # 📘 Querying In Notebooks
 
-🖙 [Back to main repository](../README.md)
 
 This folder contains notebooks and exercises that focus on the basics of SQL querying using Jupyter Notebooks.
 
@@ -20,15 +19,15 @@ This folder contains notebooks and exercises that focus on the basics of SQL que
 
 ## 📂 Files
 
-| 📘 Notebook Title                                                                                                                    | 📌 Description                             |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
-| [`Aliasing and commenting in SQL.ipynb`](./Aliasing%20and%20commenting%20in%20SQL.ipynb)                                             | Rename columns and write readable SQL code |
-| [`Basic SQL queries in a notebook 1 [Exercise].ipynb`](./Basic%20SQL%20queries%20in%20a%20notebook%201%20%5BExercise%5D.ipynb)       | Simple practice with SELECT and WHERE      |
-| [`Logical and comparison operators.ipynb`](./Logical%20and%20comparison%20operators.ipynb)                                           | Use AND, OR, NOT, and comparison symbols   |
-| [`Querying in notebooks [Exercise].ipynb`](./Querying%20in%20notebooks%20%5BExercise%5D.ipynb)                                       | Combine all basic concepts in practice     |
-| [`Reading data across multiple tables.ipynb`](./Reading%20data%20across%20multiple%20tables.ipynb)                                   | Read and join data across tables           |
-| [`SELECT and WHERE [Notebook].ipynb`](./SELECT%20and%20WHERE%20%5BNotebook%5D.ipynb)                                                 | Filter rows using WHERE clause             |
-| [`Using logical and comparison operators [Notebook].ipynb`](./Using%20logical%20and%20comparison%20operators%20%5BNotebook%5D.ipynb) | Practice filtering with logic              |
+| 📘 Notebook Title                                         | 📌 Description                             |
+| --------------------------------------------------------- | ------------------------------------------ |
+| `Aliasing and commenting in SQL.ipynb`                    | Rename columns and write readable SQL code |
+| `Basic SQL queries in a notebook 1 [Exercise].ipynb`      | Simple practice with SELECT and WHERE      |
+| `Logical and comparison operators.ipynb`                  | Use AND, OR, NOT, and comparison symbols   |
+| `Querying in notebooks [Exercise].ipynb`                  | Combine all basic concepts in practice     |
+| `Reading data across multiple tables.ipynb`               | Read and join data across tables           |
+| `SELECT and WHERE [Notebook].ipynb`                       | Filter rows using WHERE clause             |
+| `Using logical and comparison operators [Notebook].ipynb` | Practice filtering with logic              |
 
 ## ✅ What I Learned
 
