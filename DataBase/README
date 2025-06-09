@@ -1,0 +1,27 @@
+# 🗂️ Database Setup
+
+🔙 [Back to main repository](../README.md)
+
+This folder contains the necessary data resources and SQL files used across all notebooks and exercises in this repository.
+
+## 📦 Contents
+
+| 📁 File                                            | 📌 Description                                                                           |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [`Data dictionary.pdf`](./Data%20dictionary.pdf)   | Documentation that describes the database tables, columns, and data types                |
+| [`md_water_services.sql`](./md_water_services.sql) | SQL script to create and populate the `md_water_services` database used in all exercises |
+
+## 🧠 Purpose
+
+These resources are essential for running the SQL notebooks smoothly. Make sure to:
+
+1. Read the **Data Dictionary** to understand the structure of the data.
+2. Run the SQL script in your MySQL or SQLite environment to create the database before starting exercises.
+
+## ⚙️ How to Use
+
+* Open your MySQL client or Jupyter Notebook with a SQL kernel.
+* Execute the content of `md_water_services.sql` to create and populate the database.
+* Refer to `Data dictionary.pdf` while writing or debugging your queries.
+
+> 💡 Tip: You can re-run the `.sql` file anytime you want to reset the database to its original state.
