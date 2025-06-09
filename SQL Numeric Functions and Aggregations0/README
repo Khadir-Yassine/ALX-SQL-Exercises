@@ -1,0 +1,37 @@
+# 📊 SQL Numeric Functions and Aggregations
+
+
+This folder focuses on how to use SQL numeric functions, perform aggregations, and analyze data using summary statistics.
+
+## 🗘️ Learning Path in this Chapter
+
+1. Introduction to Numeric Functions
+2. Aggregating Data (SUM, COUNT, AVG, etc.)
+3. Filtering with HAVING
+4. Summary Statistics Exercises
+
+## 🧠 Topics Covered
+
+* COUNT, AVG, SUM, MAX, MIN
+* GROUP BY and HAVING clauses
+* Applying mathematical operations on columns
+* Creating and filtering statistical summaries
+
+## 📂 Files
+
+| 📘 Notebook Title                                                      | 📌 Description                              |
+| -----------------------------------------------------------------------| -------------------------------------------- |
+| `Create a summary statistic report in SQL.ipynb`                       | Generate basic statistics using aggregation  |
+| `Filtering and analysing summary statistic report.ipynb`               | Use HAVING to filter group results           |
+| `Initial data analysis with numeric functions.ipynb`                   | Start exploring numeric trends               |
+| `SQL numeric functions and aggregations [Exercise].ipynb`              | Apply what you've learned in a full exercise |
+| `Transform columns using numeric functions.ipynb`                      | Compute new values using math functions      |
+
+## ✅ What I Learned
+
+* How to compute numeric summaries using SQL
+* Using GROUP BY with multiple columns
+* Writing more advanced WHERE and HAVING filters
+* Applying arithmetic directly in SQL queries
+
+> 💡 You can open the notebooks directly in your browser using [Google Colab](https://colab.research.google.com) or JupyterLab.
