@@ -1,15 +1,14 @@
 # 🗂️ Database Setup
 
-🔙 [Back to main repository](../README.md)
 
 This folder contains the necessary data resources and SQL files used across all notebooks and exercises in this repository.
 
 ## 📦 Contents
 
-| 📁 File                                            | 📌 Description                                                                           |
-| -------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [`Data dictionary.pdf`](./Data%20dictionary.pdf)   | Documentation that describes the database tables, columns, and data types                |
-| [`md_water_services.sql`](./md_water_services.sql) | SQL script to create and populate the `md_water_services` database used in all exercises |
+| 📁 File                |  📌 Description                                                                          |
+| ------------------------| ---------------------------------------------------------------------------------------- |
+| `Data dictionary.pdf`   | Documentation that describes the database tables, columns, and data types                |
+| `md_water_services.sql` | SQL script to create and populate the `md_water_services` database used in all exercises |
 
 ## 🧠 Purpose
 
